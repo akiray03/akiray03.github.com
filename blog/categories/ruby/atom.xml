@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[akiray03's dailylog]]></title>
-  <link href="http://akiray03.github.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: ruby | akiray03's dailylog]]></title>
+  <link href="http://akiray03.github.com/blog/categories/ruby/atom.xml" rel="self"/>
   <link href="http://akiray03.github.com/"/>
   <updated>2013-01-14T19:27:51+09:00</updated>
   <id>http://akiray03.github.com/</id>
@@ -21,16 +21,7 @@
     <content type="html"><![CDATA[<p><a href="http://tokyo10.rubykaigi.info/">東京Ruby会議10</a>に参加してきました。
 ２日目は大雪の影響で、急遽中止となっていまいましたが、最後の発表で「ブログを書きましょう」と言われたので、ブログを作ってエントリを作成するところまでやりました。</p>
 
-<p>セッションの感想は、これからまとめる&#8230; (はず)</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[githubとjekyllとoctpressで作るブログ]]></title>
-    <link href="http://akiray03.github.com/blog/2013/01/14/first-post/"/>
-    <updated>2013-01-14T18:00:00+09:00</updated>
-    <id>http://akiray03.github.com/blog/2013/01/14/first-post</id>
-    <content type="html"><![CDATA[<p>はじめての投稿</p>
+<p>セッションの感想は、これからまとめる... (はず)</p>
 ]]></content>
   </entry>
   
