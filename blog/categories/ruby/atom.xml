@@ -4,7 +4,7 @@
   <title><![CDATA[Category: ruby | akiray03's dailylog]]></title>
   <link href="http://akiray03.github.com/blog/categories/ruby/atom.xml" rel="self"/>
   <link href="http://akiray03.github.com/"/>
-  <updated>2013-01-14T22:06:13+09:00</updated>
+  <updated>2013-01-14T22:12:59+09:00</updated>
   <id>http://akiray03.github.com/</id>
   <author>
     <name><![CDATA[akiray03]]></name>
@@ -148,11 +148,30 @@
 
 <h2>ブログのススメ</h2>
 
-<p><a href="https://twitter.com/netwillnet">netwillnet</a>さんの発表。</p>
+<p><a href="https://twitter.com/netwillnet">netwillnet</a>さんの発表。<a href="http://willnet.in/68">発表資料</a></p>
 
 <ul>
 <li>日本語の技術ブログ少ない</li>
 <li>ブログ書きましょう！</li>
+</ul>
+
+
+<h1>まとめ</h1>
+
+<ul>
+<li>大雪だった</li>
+<li>'いしきたかいひと'が多かった
+
+<ul>
+<li>息切れしない程度に 'いしきたかく' 生きて行きたい</li>
+</ul>
+</li>
+<li>ようやく重い腰をあげてブログ作った！ 書いた！
+
+<ul>
+<li>mrubyネタとか、書いていきたい</li>
+</ul>
+</li>
 </ul>
 
 ]]></content>
