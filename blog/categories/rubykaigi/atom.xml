@@ -4,7 +4,7 @@
   <title><![CDATA[Category: rubykaigi | akiray03's dailylog]]></title>
   <link href="http://akiray03.github.com/blog/categories/rubykaigi/atom.xml" rel="self"/>
   <link href="http://akiray03.github.com/"/>
-  <updated>2013-01-14T19:27:51+09:00</updated>
+  <updated>2013-01-14T22:06:13+09:00</updated>
   <id>http://akiray03.github.com/</id>
   <author>
     <name><![CDATA[akiray03]]></name>
@@ -12,6 +12,151 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[東京Ruby会議10 参加レポート]]></title>
+    <link href="http://akiray03.github.com/blog/2013/01/14/tokyorubykaigi10-report/"/>
+    <updated>2013-01-14T22:00:00+09:00</updated>
+    <id>http://akiray03.github.com/blog/2013/01/14/tokyorubykaigi10-report</id>
+    <content type="html"><![CDATA[<p><a href="http://tokyo10.rubykaigi.info/">東京Ruby会議10</a>に１日目、２日目とも参加してきました。
+１日目は連休なか日の油断と寒さに負けて、若干遅刻してしまいましたが、２つめのセッションから聞くことができました。気になった幾つかのセッションをピックアップして、メモと発表資料へのリンクをまとめてみます。(後半は息切れしちゃったけど..)</p>
+
+<!-- more -->
+
+
+<h2>プログラミング未経験なんて怖くない！</h2>
+
+<p><a href="https://twitter.com/akiinyo">akiinyo</a>さんの発表。プログラミング初心者の状態で会社に入り、プログラミング力を身につける過程で実践したことの紹介。</p>
+
+<ul>
+<li>真似する
+
+<ul>
+<li>最初はコピペだっていいじゃない</li>
+</ul>
+</li>
+<li>形から入る
+
+<ul>
+<li>形を真似して実践してるうちに気づけることもあるはずさ</li>
+</ul>
+</li>
+<li>途中経過を見せる
+
+<ul>
+<li>ユーザ視点で「こんな感じ？」を再確認しておけば、後戻りなくて良い感じ</li>
+</ul>
+</li>
+</ul>
+
+
+<h2>周囲の助けを得ながら楽しく開発するためのアレコレ</h2>
+
+<p><a href="https://twitter.com/thso83">thso83</a>さんの発表。<a href="https://speakerdeck.com/hassaku/tokyorubykaigi10">発表資料</a></p>
+
+<ul>
+<li><a href="https://github.com/zolrath/wemux">wemux</a> (スクリーン共有アプリ) すごく便利そう</li>
+<li>vagrantで簡単にVM共有
+
+<ul>
+<li>独自アプリを作ってるのかな？</li>
+<li>chefで環境構築とかやってると、近いことは実現しやすそう</li>
+</ul>
+</li>
+<li>メンバーのスキル見える化したい
+
+<ul>
+<li>けど、やっぱり難しい</li>
+</ul>
+</li>
+<li>フリスクGJ!</li>
+</ul>
+
+
+<h2>The Everything Machine</h2>
+
+<p><a href="https://twitter.com/r7kamura">r7kamura</a>さんの発表。<a href="https://speakerdeck.com/r7kamura/the-everything-machine">発表資料</a></p>
+
+<ul>
+<li>毎日の 'ちょっとした' 問題を解決したい
+
+<ul>
+<li>e.g. 朝起きれない, 帰ったら寒い, …</li>
+<li>'ちょっとした'問題を解決する rubygemたち https://github.com/r7kamura</li>
+</ul>
+</li>
+<li>Q. たくさんのgemを書いてるけど、どれぐらいの時間かけてる？
+
+<ul>
+<li>A. 1つのネタあたり1週間ぐらいのペースで開発してる。</li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Herokuでつくる50人のためのRailsアプリ</h2>
+
+<p><a href="https://twitter.com/yotii23">yotii23</a>さんの発表。</p>
+
+<ul>
+<li>'句会'という小さなコミュニティのためのアプリ</li>
+<li>最初はTwitter DMとExcel。←すごく大変だった</li>
+<li>コミュニティに役立つものを作ると
+
+<ul>
+<li>仕事ではありえないぐらいのほめられ方</li>
+</ul>
+</li>
+</ul>
+
+
+<h2>日本酒評価サイトとxDD</h2>
+
+<p><a href="https://twitter.com/ginkouno">ginkouno</a>さんの発表。</p>
+
+<ul>
+<li>ADD(Alcohol Driven Development), BDD(Beer ..), WDDD(Wine ..)には笑わせて頂きました ^^</li>
+<li>CDD(Community Driven Development)の魅力と強さは、yotti23さんの発表と合わせて強く感じたところ</li>
+</ul>
+
+
+<h2>Padrino in Production</h2>
+
+<p><a href="https://twitter.com/kwappa">kwappa</a>さんの発表。</p>
+
+<ul>
+<li>Padrinoいいよ！
+
+<ul>
+<li>フルスタックの Sinatra みたいな</li>
+</ul>
+</li>
+<li>Sub Applicationの機構がフィットすると、すごく便利</li>
+<li>Padrino全般については WEB+DB Pressの vol.69 の特集がよくまとまってる</li>
+</ul>
+
+
+<h2>PHPとRubyの架け橋</h2>
+
+<p><a href="https://twitter.com/do_aki">do_aki</a>さんの発表。</p>
+
+<ul>
+<li>Rubyからphpを使える拡張と、phpからRubyを使える拡張を書いた (誰得</li>
+<li>RubyとPHP。内部実装はだいぶ思想が違う。(データの持ち方とか、それに由来するGCの取り扱いとか。)</li>
+</ul>
+
+
+<h2>ブログのススメ</h2>
+
+<p><a href="https://twitter.com/netwillnet">netwillnet</a>さんの発表。</p>
+
+<ul>
+<li>日本語の技術ブログ少ない</li>
+<li>ブログ書きましょう！</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[TokyoRubyKaigi10に参加してきた]]></title>
