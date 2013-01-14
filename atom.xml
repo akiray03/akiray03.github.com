@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://akiray03.github.com/atom.xml" rel="self"/>
+  <link href="http://akiray03.github.com/"/>
+  <updated>2013-01-14T17:50:23+09:00</updated>
+  <id>http://akiray03.github.com/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[githubとjekyllとoctpressで作るブログ]]></title>
+    <link href="http://akiray03.github.com/blog/2013/01/14/first-post/"/>
+    <updated>2013-01-14T18:00:00+09:00</updated>
+    <id>http://akiray03.github.com/blog/2013/01/14/first-post</id>
+    <content type="html"><![CDATA[<p>はじめての投稿</p>
+]]></content>
+  </entry>
+  
+</feed>
